@@ -3,14 +3,6 @@
 ## Overview
 This project integrates an exported AR object into a promotional website, using **CSS3**, **JavaScript**, and the **GreenSock (GSAP)** library to animate hotspots and display dynamic information.
 
-## Requirements
-
-1. **AR Object Integration**:  
-   Import and display the AR object on the page using a 3D viewer.
-2. **Hotspot Animations**:  
-   Use **GSAP** to animate hotspots around the AR object.
-4. **Interactivity**:  
-   Handle hotspot interactions (clicks/hover) to display relevant information.
 
 ## Setup
 
